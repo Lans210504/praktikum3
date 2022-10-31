@@ -42,6 +42,48 @@ untuk cek hasilnya kalian klik enter
 
 ![image](https://user-images.githubusercontent.com/115879313/197591116-18935492-b2c2-4183-8482-81cd8f68e15e.png)
 
+
+
+Flowchart***
+
+![image](https://user-images.githubusercontent.com/115879313/198933397-fcb514af-64af-46ab-8246-91316c21579b.png)
+
+
+Penjelasannya
+
+1.Declare(Deklarasi) dengan variable r dengan Type Data 'Real' agar dapat menampilkan hasil pecahan.
+
+2.Declare(Deklarasi) dengan variable L, K dengan Type data 'Real' agar dapat menampilkan hasil pecahan juga.
+
+3.Output <"Masukkan Jari-jari Lingkaran :"> agar User mengerti harus menginput nilai jari-jarinya.
+
+4.Input variable r atau nilai jari-jari yang sudah di deklarasikan di atas.
+
+5.Assign atau rumus untuk menghitung Luas jari-jari dengan Formula <L= (22/7)rr>
+
+5.Assign atau rumus untuk menghitung Keliling jari-jari dengan Formula <K= 2*(22/7)*r>
+
+7.Output untuk menampilkan hasil Luas Lingkaran dengan Variable L <"Luas (L) Lingkaran : " &L>
+
+8.Output untuk menampilkan hasil Keliling Lingkaran dengan Variable L <"Keliling (K) Lingkaran : " &K>
+
+Setelah semua proses selesai, run maka akan tampil seperti ini.
+
+![image](https://user-images.githubusercontent.com/115879313/198933667-c32d211a-f9a9-464b-a689-80ed5659fd7e.png)
+
+Screenshots Praktikum Pertemuan 6
+Ini adalah Capture Project yang dikerjakan saat pertemuan ke-6 Mata Kuliah Bahasa Pemograman.
+
+Formatting String
+![image](https://user-images.githubusercontent.com/115879313/198933744-9cd7a84c-d428-4704-bff9-0438a8ac28eb.png)
+
+
+Penggabungan, Penjumlahan, dan Pembagian
+![image](https://user-images.githubusercontent.com/115879313/198933794-cc815b99-f366-4060-abcf-8a7c20fd2073.png)
+
+Membuat Ketupat Dengan Formatting String
+![image](https://user-images.githubusercontent.com/115879313/198933847-735075eb-974c-467f-96a6-c2566de04f80.png)
+
 untuk tampilannya akan seperti ini
 
 **selesai** 
